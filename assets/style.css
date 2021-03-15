@@ -1,0 +1,567 @@
+.hm_btn.vc_tta-tab>a {
+    border-color: #ed145b !important;
+    background-color: #ed145b !important;
+}
+
+p {
+    font-size: 18px;
+}
+
+span.vc_tta-title-text {
+    font-size: 1.3em;
+}
+
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content h2 {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.home-slider-1 .owl-carousel-1 .item .entry-item .entry-content {
+    padding-top: 180px;
+}
+
+#logo-image img {
+    max-width: 100px;
+}
+
+.ba-h-service h2 {
+    font-size: 24px;
+    line-height: 24px;
+}
+
+@media screen and (max-width: 767px) {
+    #logo-image {
+        width: 100% !important;
+    }
+
+    #kopa-header-top .container .row>div:first-child {
+        width: 100% !important;
+    }
+}
+
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-thumb {
+    margin-top: 0 !important;
+}
+
+/*------------------------------*/
+#kopa-header-top {
+    background-color: #ffffff !important;
+}
+
+#top-nav #top-menu li a {
+    color: #637587;
+}
+
+#top-nav #top-menu li {
+    border: none !important;
+}
+
+.kopa-area-20,
+.kopa-tab-container-6 .nav.nav-tabs.kopa-tabs-6>li.active a,
+.toggle-view li.active h6,
+.toggle-view li:hover h6,
+.progress .progress-bar-danger,
+.kopa-button.pink-button,
+.kopa-button.navy-button:hover,
+.kopa-blockquote-1 p i,
+.pro-bar-wrapper .pro-bar-container .pro-bar.color-green,
+.pro-bar-wrapper .pro-bar-container .pro-bar.color-pink,
+.social-links li a:hover,
+.widget .widget-title.widget-title-s7 i,
+.entry-icon,
+.widget_tag_cloud a:hover,
+.kopa-newsletter-widget .newsletter-form .input-email input[type="submit"]:hover,
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item .item-hover,
+.kopa-course-search-widget .course-form .course-submit,
+.kopa-course-search-2-widget .course-form .course-submit,
+.kopa-masonry-list-2-widget .masonry-list-wrapper>ul>li .entry-item .entry-thumb .entry-hot,
+.kopa-masonry-list-3-widget .masonry-list-wrapper>ul>li .entry-item .entry-thumb .entry-hot,
+.kopa-masonry-list-3-widget .masonry-list-wrapper>ul>li .entry-item .entry-content footer .price-box,
+.kopa-event-list-2-widget .entry-item .entry-thumb .entry-date p,
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row>div .entry-item .entry-content .more-link:hover i,
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-thumb .mask .click-box a:hover,
+.search-form .search-submit,
+.entry-box .entry-content .entry-content-header>.entry-date p,
+.entry-box .tag-box a:hover,
+.entry-event-box .row>div.right-col .tag-box a:hover,
+.entry-event-box .row>div.right-col .entry-event-box-footer>div .entry-item .entry-content a.fa:hover,
+.entry-event-box .row>div.right-col #respond .comment-form .row>div .comment-button input[type="submit"],
+.entry-course-box .row>div.left-col .tag-box a:hover,
+.entry-course-box .row>div.left-col .entry-course-box-footer>div .entry-item .entry-content a.fa:hover,
+.entry-course-box #respond .comment-form .row>div .comment-button input[type="submit"],
+.kopa-login-widget input[type="submit"],
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button:hover,
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button:hover,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button:hover,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button:hover,
+.woocommerce ul.products li.product .product-thumb .hot-item,
+.woocommerce-page ul.products li.product .product-thumb .hot-item,
+.woocommerce ul.products li.product .product-detail>a .price,
+.woocommerce-page ul.products li.product .product-detail>a .price,
+.woocommerce div.product div.summary form.cart .single_add_to_cart_button:hover,
+.woocommerce-page div.product div.summary form.cart .single_add_to_cart_button:hover,
+#bottom-sidebar-s2>.row>div .widget.kopa-newsletter-widget .newsletter-form .input-email input[type="submit"],
+#kopa-page-footer-s2 #back-top a:hover,
+.bbp_widget_login button[type="submit"],
+.pro-pink .pro-bar-container .pro-bar.pro-midnight,
+.kopa-login-widget button.submit,
+.kopa-login-widget .logout-link,
+.widget.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"] {
+    background-color: #a6cf39;
+}
+
+.nav-tabs.kopa-tabs-1>li.active a,
+.nav-tabs.kopa-tabs-1>li:hover a,
+.nav-tabs.kopa-tabs-3>li a,
+.nav-tabs.kopa-tabs-2>li.active a,
+.kopa-tab-container-5 .kopa-tabs-5 li.active a,
+.kopa-tab-container-5 .kopa-tabs-5 li:hover a,
+.kp-dropcap-2,
+.panel-group .panel .panel-heading>.panel-title a .btn-title:before,
+.panel-group .panel .panel-heading>.panel-title a .btn-title:after,
+.panel-group .panel .panel-heading.active>.panel-title,
+.panel-group .panel .panel-heading:hover>.panel-title,
+.kopa-accordion.style1 .panel-group .panel .panel-heading.active .panel-title a .btn-title,
+.kopa-accordion.style1 .panel-group .panel .panel-heading:hover .panel-title a .btn-title,
+.kopa-toggle-3.toggle-view li.active h6,
+.kopa-toggle-3.toggle-view li .kopa-panel,
+.kopa-divider-line,
+.kopa-divider-fat-line,
+.kopa-button.navy-button,
+.kopa-button.pink-button:hover,
+.kopa-button.blue-button:hover,
+.kopa-button.green-button:hover,
+.kopa-button.red-button:hover,
+.table-5col .pricing-column .pricing-header,
+.table-4col .pricing-column .pricing-column-inner .pricing-header,
+.alert-dark-blue,
+.pro-bar-wrapper .pro-bar-container.color-midnight-blue,
+.pro-bar-wrapper .pro-bar-container .pro-bar.color-midnight-blue,
+.social-links li a,
+.pagination ul.page-numbers li span.current,
+.pagination ul .current,
+.kopa-newsletter-widget .newsletter-form .input-email input[type="submit"],
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item,
+.kopa-course-search-widget .course-form .course-submit:hover,
+.kopa-course-search-2-widget .course-form .course-submit:hover,
+.kopa-course-list-3-widget .kopa-course-list-table .table-header,
+.kopa-course-list-3-widget .kopa-course-list-table .table-list li:hover,
+.kopa-service-1-widget .widget-content .row>div .entry-item>i,
+.kopa-article-list-6-widget .entry-item .entry-content ul li i,
+.kopa-article-list-9-widget ul li .entry-item .more-link,
+.kopa-owl-6-widget .owl-carousel-8 .owl-controls .owl-buttons div,
+.kopa-blog-list-1-widget .entry-item.gallery-post .entry-thumb .owl-carousel-6 .owl-controls .owl-buttons div,
+.kopa-blog-list-2-widget .entry-item.gallery-post .entry-thumb .owl-carousel-6 .owl-controls .owl-buttons div,
+.kopa-event-list-4-widget .entry-item:hover,
+.kopa-course-tab-list-2-widget .kopa-course-list-2-wrapper .kopa-course-list-2 .row>div .entry-item:hover,
+.kopa-course-tab-list-3-widget .kopa-course-list-3-wrapper .kopa-course-list-3 .row>div .entry-item .entry-content .more-link i,
+.kopa-portfolio-list-1-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-thumb .mask .click-box a,
+.kopa-home-2 .kopa-course-search-widget .course-form .course-submit:hover,
+.kopa-home-2 .kopa-newsletter-widget .newsletter-form .input-email input[type="submit"]:hover,
+.search-form .search-submit:hover,
+.entry-box .entry-content .owl-carousel-6 .owl-controls .owl-buttons div,
+.kopa-comment-pagination span.current,
+.entry-event-box .row>div.right-col #respond .comment-form .row>div .comment-button input[type="submit"]:hover,
+.entry-course-box #respond .comment-form .row>div .comment-button input[type="submit"]:hover,
+.kopa-login-widget input[type="submit"]:hover,
+#contact-form .contact-form .row>div .contact-button input[type="submit"]:hover,
+.entry-portfolio-box .portfolio-thumb>div .owl-carousel-6 .owl-controls .owl-buttons div,
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button,
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button,
+.woocommerce #content nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current,
+.woocommerce-page nav.woocommerce-pagination ul li span.current,
+.woocommerce div.product .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 li a,
+.woocommerce-page div.product .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 li a,
+#bottom-sidebar-s2>.row>div .widget.kopa-newsletter-widget .newsletter-form .input-email input[type="submit"]:hover,
+.contact-form-wrapper form .row>div .contact-button input[type="submit"]:hover,
+.blue-style .course-form .course-submit:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li,
+.bbp_widget_login button[type="submit"]:hover,
+.pro-blue .pro-bar-container .pro-bar.pro-midnight,
+.kopa-login-widget .logout-link:hover,
+.widget.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"]:hover,
+#upside-right-sidebar .bbp_widget_login .logout-link:hover,
+.upside-right-sidebar .bbp_widget_login .logout-link:hover,
+#bbpress-forums #bbp-user-wrapper h2.entry-title {
+    background-color: #0095da;
+}
+
+::selection {
+    background: #a6cf39;
+    color: #ffffff !important;
+}
+
+.kopa-button.kopa-line-button.pink-button,
+.kopa-button.kopa-line-button.navy-button:hover,
+.owl-theme .owl-controls .owl-pagination .owl-page.active span,
+.owl-theme .owl-controls .owl-pagination .owl-page:hover span,
+.widget_tag_cloud a:hover,
+.kopa-nothumb-widget .widget-content .entry-item .entry-content .more-link:hover i,
+.more-link:hover i,
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-content .more-link:hover i,
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-thumb .entry-icon:hover,
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-content .more-link:hover i,
+.kopa-owl-3-widget .owl-carousel-3 .owl-controls .owl-pagination .owl-page.active span,
+.kopa-owl-3-widget .owl-carousel-3 .owl-controls .owl-pagination .owl-page:hover span,
+.upside-three-item .widget-content ul li .entry-item .entry-content .more-link:hover i,
+.kopa-article-list-10-widget .widget-content ul li .entry-item .entry-thumb .mask .entry-icon:hover span,
+.kopa-ads-3-widget .owl-carousel-4 .owl-controls .owl-pagination .owl-page.active span,
+.kopa-ads-3-widget .owl-carousel-4 .owl-controls .owl-pagination .owl-page:hover span,
+.kopa-testimonial-2-widget .widget-content .owl-carousel-9 .owl-controls .owl-pagination .owl-page.active span,
+.kopa-testimonial-2-widget .widget-content .owl-carousel-9 .owl-controls .owl-pagination .owl-page:hover span,
+.kopa-event-list-4-widget .entry-item:hover .more-link:hover i,
+.kopa-portfolio-list-1-widget .filters-options li.active,
+.kopa-portfolio-list-1-widget .filters-options li:hover,
+.btn-intro li a:hover,
+.btn-view a:hover,
+.btn-itn.s1:hover,
+.entry-event-box .row>div.right-col .tag-box a:hover,
+.entry-event-box .row>div.right-col #respond .comment-form .row>div .comment-button input[type="submit"],
+.entry-course-box .row>div.left-col .tag-box a:hover,
+.entry-course-box #respond .comment-form .row>div .comment-button input[type="submit"],
+#bbpress-forums fieldset.bbp-form button[type="submit"]:hover,
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button:hover,
+.woocommerce ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button:hover,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_cart_button:hover,
+.woocommerce-page ul.products li.product .product-thumb .mask .button-box .button.add_to_wishlist_button:hover,
+#back-top a:hover,
+.widget.woocommerce.widget_product_tag_cloud .tagcloud a:hover,
+.woocommerce form .form-row.woocommerce-invalid .select2-container,
+.woocommerce form .form-row.woocommerce-invalid input.input-text,
+.woocommerce form .form-row.woocommerce-invalid select,
+.table-4col .pricing-column .pricing-column-inner .pricing-footer a {
+    border-color: #a6cf39;
+}
+
+.owl-theme .owl-controls .owl-pagination .owl-page.active span,
+.owl-theme .owl-controls .owl-pagination .owl-page:hover span,
+.main-nav-mobile .main-menu-mobile,
+.kopa-portfolio-list-1-widget .filters-options li.active,
+.kopa-portfolio-list-1-widget .filters-options li:hover,
+.btn-intro li a:hover,
+.btn-intro li:first-child a,
+.btn-view a:hover,
+.btn-dl,
+.btn-itn:hover,
+#bbpress-forums ul.bbp-topics .bbp-sticky-complete,
+#bbpress-forums ul.bbp-topics .bbp-sticky-complete .bbp-sticky,
+#bbpress-forums ul.bbp-threads .bbp-sticky-complete,
+#bbpress-forums ul.bbp-threads .bbp-sticky-complete .bbp-sticky,
+#bbpress-forums fieldset.bbp-form button[type="submit"]:hover,
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce div.product div.images .onsale,
+.woocommerce-page div.product div.images .onsale,
+.sticky-post-icon,
+.widget.woocommerce.widget_product_tag_cloud .tagcloud a:hover,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+#upside-right-sidebar .bbp_widget_login .logout-link,
+.upside-right-sidebar .bbp_widget_login .logout-link {
+    background: #a6cf39;
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover,
+.h1 a:hover,
+.h2 a:hover,
+.h3 a:hover,
+.h4 a:hover,
+.h5 a:hover,
+.h6 a:hover,
+a:hover,
+a.active,
+.text-hover,
+.kopa-button.kopa-line-button.pink-button,
+.kopa-button.kopa-line-button.navy-button:hover,
+.table-4col .pricing-column .pricing-column-inner .pricing-header .special span,
+.table-4col .pricing-column .pricing-column-inner .pricing-footer a:hover,
+.kopa-e-list.kopa-icon-list li i,
+.txt-decoration-2,
+.owl-theme .owl-controls .owl-buttons div:hover,
+#top-nav #top-menu li ul li:hover>a,
+#top-nav .kopa-search-box form.search-form button.search-submit:hover i,
+#main-menu>li>ul>li>ul>li:hover>a,
+#main-menu>li>ul>li>ul>li.current-menu-item>a,
+#main-menu>li>ul>li .current-menu-item>a,
+#main-menu li .sf-mega .row>div .row>div ul li:hover>a,
+#main-menu li .sf-mega .row>div .row>div ul li.current-menu-item>a,
+.mobile-search-box .mobile-search-form button.search-submit:hover,
+.main-nav-mobile .pull,
+#footer-nav #footer-menu li a:hover,
+.widget .widget-title.widget-title-s2 .see-more a:hover,
+.widget .widget-title.widget-title-s2 .see-more:hover,
+.widget .widget-title.widget-title-s3 .see-more a:hover,
+.widget .widget-title.widget-title-s3 .see-more:hover,
+.widget .widget-title.widget-title-s11 .see-more a:hover,
+.widget .widget-title.widget-title-s11 .see-more:hover,
+.entry-time,
+.entry-author a:hover,
+.entry-categories a:hover,
+.entry-view,
+.entry-comment a:hover,
+.breadcrumb a:hover,
+.widget_archive ul li a:hover,
+.widget_nav_menu ul li a:hover,
+.widget_categories ul li:hover a,
+.kopa-event-2-widget ul li .entry-title a:hover,
+.kopa-nothumb-widget .widget-content .entry-item .entry-content .entry-title a:hover,
+.kopa-nothumb-widget .widget-content .entry-item .entry-content .more-link:hover,
+.more-link:hover i:before,
+.kopa-nothumb-2-widget .widget-content .entry-item .entry-content .more-link:hover,
+.kopa-article-list-1-widget .widget-content .entry-item .entry-thumb .entry-title a:hover,
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-thumb .entry-icon:hover,
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-content .entry-title a:hover,
+.kopa-owl-3-widget .owl-carousel-3 .item .entry-item .entry-content .more-link:hover,
+.kopa-rounded-thumb-widget .widget-content .entry-item .entry-content .entry-title a:hover,
+.kopa-rounded-thumb-2-widget .widget-content .entry-item .entry-content .entry-title a:hover,
+.upside-three-item .widget-content ul li .entry-item .entry-content .entry-title a:hover,
+.upside-three-item .widget-content ul li .entry-item .entry-content .more-link:hover,
+.kopa-featured-teacher-widget .entry-item .entry-content footer span,
+.kopa-masonry-list-1-widget .masonry-container .container-masonry .item .entry-title a:hover,
+.kopa-testimonial-list-1-widget .widget-content>div .testimonial-item footer .customer-detail h5 a:hover,
+.kopa-contact-1-widget .widget-content ul li a:hover,
+.kopa-contact-2-widget .widget-content a:hover,
+.kopa-article-list-4-widget ul li .entry-item .entry-content .entry-author a,
+.kopa-masonry-list-2-widget .masonry-list-wrapper>ul>li .entry-item .entry-content .course-teacher span,
+.kopa-masonry-list-2-widget .masonry-list-wrapper>ul>li .entry-item .entry-content .course-teacher a:hover,
+.kopa-article-list-7-widget .entry-item .entry-title a:hover,
+.kopa-article-list-8-widget ul li .entry-item .entry-content .meta-box .entry-author a:hover,
+.kopa-article-list-10-widget .widget-content ul li .entry-item .entry-thumb .mask .entry-icon:hover span,
+.kopa-tagline-3-widget .entry-title h2 a:hover,
+.kopa-tagline-4-widget .entry-title h2 a:hover,
+.kopa-owl-5-widget .owl-carousel-5 .item .entry-item .entry-content header .entry-title a:hover,
+.kopa-owl-6-widget .owl-carousel-8 .item .entry-item .entry-title a:hover,
+.kopa-blog-list-1-widget .entry-item .entry-content .meta-box .entry-author a,
+.kopa-blog-list-2-widget .entry-item .entry-content .meta-box .entry-author a,
+.kopa-event-list-2-widget .entry-item .entry-content header .entry-author a,
+.kopa-event-list-4-widget .entry-item:hover .entry-title a:hover,
+.kopa-event-list-4-widget .entry-item:hover .more-link:hover,
+.kopa-event-list-4-widget .entry-item:hover .more-link:hover i:before,
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content .click-box a:hover,
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content .entry-title a:hover,
+.kopa-portfolio-list-2-widget .portfolio-container .portfolio-list-item li.por-item1 .entry-item .entry-content .entry-categories a:hover,
+.kopa-professor-list-1-widget .row>div .entry-item .entry-content header .entry-title a:hover,
+.kopa-professor-list-2-widget>ul>li .entry-item .entry-content header .entry-title a:hover,
+.it-scroll-down:hover p,
+.it-scroll-down:hover span,
+.kopa-demo-widget .entry-item .entry-content a:hover h5,
+.kopa-home-2 .kopa-article-list-4-widget ul li .entry-item .entry-content .entry-author a:hover,
+.entry-box .about-author .author-content h5 a:hover,
+.entry-box .entry-box-footer>div .entry-item .entry-content a:hover,
+.entry-event-box .row>div.right-col .about-author .author-content h5 a:hover,
+.entry-event-box .row>div.right-col .entry-event-box-footer>div .entry-item .entry-content a:hover,
+.entry-course-box .row>div.left-col .about-author .author-content h5 a:hover,
+.entry-course-box .row>div.left-col .entry-course-box-footer>div .entry-item .entry-content a:hover,
+#bbpress-forums ul.bbp-forums .bbp-author-name:hover,
+#bbpress-forums ul.bbp-forums .bbp-forum-title:hover,
+#bbpress-forums ul.bbp-forums .bbp-forum-info .bbp-topic-meta .bbp-topic-started-in a,
+#bbpress-forums ul.bbp-forums .bbp-forum-freshness>a:hover,
+#bbpress-forums ul.bbp-topics .bbp-author-name,
+#bbpress-forums ul.bbp-topics .bbp-topic-permalink:hover,
+#bbpress-forums ul.bbp-threads .bbp-author-name,
+#bbpress-forums .bbp-topic-form .author-name,
+#bbpress-forums div.bbp-the-content-wrapper input:hover,
+#bbpress-forums div.bbp-the-content-wrapper input:active,
+#kopa-contact-info-widget p i,
+#kopa-contact-info-widget p a:hover,
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .item .entry-item .entry-thumb .click-box a:hover,
+.woocommerce ul.products li.product .product-detail>a h3:hover,
+.woocommerce-page ul.products li.product .product-detail>a h3:hover,
+.widget_product_categories .product-categories li span,
+.widget_top_rated_products ul.product_list_widget li .star-rating,
+.widget_top_rated_products ul.product_list_widget li .star-rating:before,
+.woocommerce-page div.product div.summary .woocommerce-product-rating .woocommerce-review-link:hover,
+.woocommerce-page div.product div.summary p.price ins .amount,
+.woocommerce div.product div.summary .product_meta a:hover,
+.woocommerce-page div.product div.summary .product_meta a:hover,
+#bottom-sidebar .widget.widget_nav_menu ul li a:hover,
+#bottom-sidebar-s2>.row>div .widget.widget_nav_menu ul li a:hover,
+#back-top a:hover,
+.widget_display_replies li a:hover,
+.widget_display_topics li a:hover,
+.widget_display_views li a:hover,
+.widget_display_forums li a:hover,
+.bbp_widget_login .logout-link:hover,
+.widget.woocommerce.widget_shopping_cart .widget_shopping_cart_content .cart_list.product_list_widget li a:hover,
+.widget.woocommerce.widget_recent_reviews .product_list_widget li a:hover,
+.widget.woocommerce.widget_recent_reviews .product_list_widget li .star-rating span,
+.widget.woocommerce.widget_recently_viewed_products .product_list_widget li a:hover,
+.widget.woocommerce.widget_top_rated_products .product_list_widget li .star-rating span:before,
+.woocommerce .woocommerce-message:before,
+.widget.kopa-nothumb-widget .widget-content .entry-item .entry-content .more-link:hover i,
+#bbpress-forums .bbp-template-notice p a:hover,
+.kopa-faq-section .tabs-faq.kopa-tabs-1>li:hover a,
+.entry-box .entry-box-footer>div .entry-item .entry-content .entry-title a:hover,
+.entry-course-box-footer>div .entry-item .entry-content .entry-title a:hover,
+.entry-course-box .row>div.left-col .entry-course-box-footer>div .entry-item .entry-content a:hover,
+.entry-event-box .row>div.right-col .entry-event-box-footer>div .entry-item .entry-content .entry-title a:hover {
+    color: #0095da;
+}
+
+#top-nav #top-menu>li:hover>a,
+#top-nav #top-menu>li.sfHover>a {
+    background-color: #ffffff;
+}
+
+#top-nav #top-menu>li:hover>a i,
+#top-nav #top-menu>li.sfHover>a i {
+    color: #7082a9;
+}
+
+#main-menu>li>a:before {
+    background-color: #0095da;
+}
+
+.ba-tab-head .vc_tta-tab>a {
+    border-color: #a6cf39 !important;
+    background-color: #a6cf39 !important;
+}
+
+.ba-tab-head .vc_tta-tab>a:hover {
+    background-color: #0095da !important;
+    border-color: #27a5e0 !important;
+}
+
+.ba-tab-head .vc_tta-tab.vc_active>a {
+    border-color: #f0f0f0 !important;
+    background-color: #f8f8f8 !important;
+}
+
+.ba-about-gmap .wpb_content_element {
+    margin-bottom: 0 !important;
+}
+
+.cbs-package-price-decimal {
+    display: none;
+}
+
+#bottom-sidebar {
+    background-color: #ffffff;
+}
+
+#bottom-sidebar .container>.row>div {
+    background-color: #ffffff !important;
+}
+
+#bottom-sidebar {
+    background-color: #ffffff;
+    color: #637587;
+    font-weight: 400;
+}
+
+#bottom-sidebar .widget.widget_nav_menu ul li a {
+    color: #637587;
+}
+
+#back-top a {
+    color: #a6cf39 !important;
+    border: 1px solid #a6cf399c;
+}
+
+.top-main-nav-mobile .top-main-menu-mobile,
+.btn-intro li:first-child a:hover,
+.btn-dl:hover,
+#bbpress-forums .bbp-pagination-links .page-numbers,
+#bbpress-forums ul.bbp-forums li.bbp-header,
+#bbpress-forums ul.bbp-topics .bbp-sticky-complete .bbp-complete,
+#bbpress-forums ul.bbp-threads .bbp-sticky-complete .bbp-complete,
+#bbpress-forums fieldset.bbp-form button[type="submit"],
+.woocommerce ul.products li.product .product-thumb .onsale,
+.woocommerce-page ul.products li.product .product-thumb .onsale,
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce div.product div.images .hot-item,
+#bbpress-forums li.bbp-header,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+#bbpress-forums #bbp-user-wrapper h2.entry-title:before,
+.kopa-course-comment-widget .respond .comment-form .row>div .comment-button input[type="submit"]:hover {
+    background: #0095da;
+}
+
+.ba-blue-bg a:hover {
+    color: #ffffff !important;
+}
+
+::selection {
+    color: #0095da;
+}
+
+.kopa-area-dark,
+#kopa-header-top,
+.kopa-owl-5-widget .owl-carousel-5 .owl-controls .owl-buttons div,
+#related-portfolio .owl-carousel-wrapper .owl-carousel-10 .owl-controls .owl-buttons div,
+#bottom-sidebar-s2>.row>div:first-child,
+#kopa-page-footer {
+    background-color: #0095da;
+}
+
+.kopa-language>button,
+.kopa-header-3 #kopa-header-top.bg-none {
+    background: #0095da;
+}
+
+.kopa-owl-5-widget .owl-carousel-5 .item .entry-item .entry-content .social-links li a:hover,
+.kopa-professor-list-1-widget .row>div .entry-item .entry-content .social-links li a:hover,
+.kopa-professor-list-2-widget>ul>li .entry-item .entry-content header .entry-title a,
+.kopa-professor-list-2-widget>ul>li .entry-item .entry-content .social-links li a:hover,
+.entry-event-box .row>div.right-col .event-detail>ul>li strong,
+.entry-event-box .row>div.right-col .social-box .social-links li a:hover,
+.entry-event-box .row>div.left-col .entry-content .event-price,
+.kopa-spinner .kopa-spinner-label,
+.kopa-spinner .ui-spinner,
+.entry-course-box .row>div.left-col .social-box .social-links li a:hover,
+.entry-course-box .row>div.right-col .event-detail>ul>li strong,
+.entry-course-box .row>div.right-col .event-price,
+#bbpress-forums ul.bbp-forums .bbp-forum-title,
+.entry-portfolio-box .portfolio-content>div .social-links li span,
+.entry-professor-box .row>div .entry-content header .entry-title,
+.entry-professor-box .row>div .entry-content .social-links li a:hover,
+.woocommerce div.product div.summary h4,
+.woocommerce-page div.product div.summary h4,
+.woocommerce div.product div.summary .product_meta,
+.woocommerce-page div.product div.summary .product_meta,
+.woocommerce div.product .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 li.active a,
+.woocommerce-page div.product .kopa-tab-container-1 .nav-tabs.kopa-tabs-1 li.active a,
+#bottom-sidebar-s2>.row>div .widget .widget-title,
+.woocommerce div.product .product_title,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+    color: #0095da;
+}
+
+body {
+    color: #637587;
+}
+
+h4 {
+    color: #17376e;
+}
